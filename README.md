@@ -1,0 +1,2 @@
+# WHU_Course_Template_Latex
+武汉大学通用课程大作业模板
